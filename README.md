@@ -268,4 +268,4 @@ export default TogglePage; -->
 
 To learn more about web scraping, take a look at the following resources:
 
-- This trainig is provided on Realpython website @  <a href="https://realpython.com/python-web-scraping-practical-introduction/">RealPython.com/web-scraping intro</a>.
+- This trainig is provided on Realpython website @  (https://realpython.com/python-web-scraping-practical-introduction/)
