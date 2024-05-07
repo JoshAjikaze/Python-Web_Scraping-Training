@@ -1,4 +1,5 @@
 # Python-Web_Scraping-Training
+
 <!-- # Tail-Kit
 
 ![version](https://img.shields.io/badge/version-1.0.0-blue.svg) ![license](https://img.shields.io/badge/license-MIT-blue.svg) ![GitHub issues](https://img.shields.io/github/issues/Charlie85270/tail-kit) <a href="https://www.tailwind-kit.com/" target="_blank">
@@ -261,12 +262,12 @@ const TogglePage: FC = () => {
   );
 };
 
-export default TogglePage; -->
+export default TogglePage;
 ```
+-->
 
 ## Learn More
 
 To learn more about web scraping, take a look at the following resources:
 
-## This trainig is provided on Realpython website at [RealPython.com] (https://realpython.com/python-web-scraping-practical-introduction/)
-We just updated our [Docs Contribution Guide](https://www.codecademy.com/pages/contribute-docs)!
+## This trainig is provided on Realpython website at [Web Scraping Introduction] (https://realpython.com/python-web-scraping-practical-introduction/)
