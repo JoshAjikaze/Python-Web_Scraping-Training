@@ -268,13 +268,4 @@ export default TogglePage; -->
 
 To learn more about web scraping, take a look at the following resources:
 
-- This trainig is provided on Realpython website @ -   https://realpython.com/python-web-scraping-practical-introduction/.
-<!-- -   [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial. -->
-
-<!-- You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome! -->
-
-<!-- ## Licensing -->
-
-<!-- -   Copyright 2020 Charlie Rabiller</a> -->
-
-<!-- -   Licensed under <a href="https://github.com/Charlie85270/tail-kit/blob/main/README.md" target="_blank">MIT</a> -->
+- This trainig is provided on Realpython website @  <a href="https://realpython.com/python-web-scraping-practical-introduction/">RealPython.com/web-scraping intro</a>.
